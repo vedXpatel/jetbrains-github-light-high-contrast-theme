@@ -6,8 +6,8 @@ A light high contrast theme inspired by github-zed-theme light high contrast the
 your-theme/
 ├── META-INF/
 │   └── plugin.xml
-├── GitHubLightHighContrast.icls
-└── GitHubLightHighContrast.theme.json
+├── LightHighContrast.icls
+└── LightHighContrast.theme.json
 ```
 
 2. Update plugin.xml
