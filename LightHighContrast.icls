@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheme name="GitHubLightHighContrast" version="142" parent_scheme="Default">
+  <colors>
+    <option name="CARET_COLOR" value="010409" />
+    <option name="CARET_ROW_COLOR" value="E6EAEF" />
+    <option name="SELECTION_BACKGROUND" value="DFF7FF" />
+    <option name="SELECTION_FOREGROUND" value="010409" />
+    <option name="LINE_NUMBERS_COLOR" value="454C54" />
+    <option name="GUTTER_BACKGROUND" value="FFFFFF" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="010409" />
+      </value>
+    </option>
+    <option name="KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="A0111F" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STRING">
+      <value>
+        <option name="FOREGROUND" value="032563" />
+      </value>
+    </option>
+    <option name="LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="59636E" />
+      </value>
+    </option>
+    <option name="BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="59636E" />
+      </value>
+    </option>
+    <option name="DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="A0111F" />
+      </value>
+    </option>
+    <option name="DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="59636E" />
+      </value>
+    </option>
+    <option name="NUMBER">
+      <value>
+        <option name="FOREGROUND" value="023B95" />
+      </value>
+    </option>
+    <option name="CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="023B95" />
+      </value>
+    </option>
+    <option name="FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="622CBC" />
+      </value>
+    </option>
+    <option name="FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="622CBC" />
+      </value>
+    </option>
+    <option name="CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="0E1116" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="0E1116" />
+      </value>
+    </option>
+    <option name="VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="010409" />
+      </value>
+    </option>
+    <option name="PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="010409" />
+      </value>
+    </option>
+    <option name="ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="A0111F" />
+      </value>
+    </option>
+    <option name="TAG">
+      <value>
+        <option name="FOREGROUND" value="622CBC" />
+      </value>
+    </option>
+    <option name="ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="023B95" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
