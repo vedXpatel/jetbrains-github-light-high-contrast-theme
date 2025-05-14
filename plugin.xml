@@ -1,0 +1,11 @@
+<idea-plugin>
+  <id>com.example.githublight</id>
+  <name>GitHub Light High Contrast</name>
+  <vendor>Harsh Ved Patel</vendor>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="GitHubLight" path="/GitHubLightHighContrast.theme.json"/>
+  </extensions>
+</idea-plugin>
